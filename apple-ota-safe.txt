@@ -6,17 +6,6 @@ Giữ App Store, iCloud, SSL hoạt động bình thường
 
 — OTA update check —
 
+appldnld.apple.com
 mesu.apple.com
-mesu-cdn.apple.com.akadns.net
-mesu-cdn.origin-apple.com.akadns.net
-
-— Firmware metadata —
-
 gdmf.apple.com
-gdmf.apple.com.akadns.net
-
-— Optional —
-
-xp.apple.com
-
-===== END =====
