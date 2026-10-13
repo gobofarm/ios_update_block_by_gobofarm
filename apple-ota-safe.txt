@@ -6,6 +6,5 @@ Giữ App Store, iCloud, SSL hoạt động bình thường
 
 — OTA update check —
 
-appldnld.apple.com
 mesu.apple.com
 gdmf.apple.com
