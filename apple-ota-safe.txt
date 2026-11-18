@@ -1,5 +1,3 @@
 # Apple OTA Minimal Safe Block Update
 mesu.apple.com
-appldnld.apple.com
-updates.cdn-apple.com
-updates-http.cdn-apple.com
+gdmf.apple.com
